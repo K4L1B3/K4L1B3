@@ -7,6 +7,22 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=16&theme=jolly"/>
 </div>
+  
+  ### Habilidades nas seguintes tecnologias:
+
+   <div>
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+     
+ style="color:blue;text-align:center;">
+  </div>
+  
 
 ## Projetos
 
@@ -34,8 +50,9 @@
 
 ### Redes sociais
 
+  <img height="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 
-
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 
 
 
