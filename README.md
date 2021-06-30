@@ -1,19 +1,19 @@
-### Opa! 👋
+# Opa! 👋
 
-<!--
-**K4L1B3/K4L1B3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/K4L1B3">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=16&theme=jolly"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+## Empresa
+
+## Sobre mim
+
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho.
 
@@ -30,6 +30,13 @@ Here are some ideas to get you started:
 😄 Pronouns: Meu nome pe Luiz, mas o pessoal costuma de chamar de KaliBE, então o apelido meio que pegou. kakakakaka
 
 ⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
+
+
+### Redes sociais
+
+
+
+
 
 
 
