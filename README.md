@@ -26,11 +26,11 @@
 ## Projetos
   
   ### Kaflux
-    Software para gestão de estoque e fluxo de caixa para sua pequena ou média empresa.
+  Software para gestão de estoque e fluxo de caixa para sua pequena ou média empresa.
+  
   <a href="https://github.com/K4L1B3/kaflux">Saiba mais</a>
 
-## Empresa
-
+  
 ## Sobre mim
 
 
