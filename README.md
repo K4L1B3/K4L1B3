@@ -54,7 +54,7 @@
 ### Redes sociais
 
   <a href="https://www.linkedin.com/in/luiz-henrique-3903a618a/"><img height="70em" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a> 
-  <a href="https://www.instagram.com/k4l1b3/"><img height="70em"  src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/></a>
+  <a href="https://www.instagram.com/luiz.belispetre/"><img height="70em"  src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/></a>
 
 
 
