@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/K4L1B3">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=16&theme=jolly"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=16&theme=jolly"/>
 </div>
   
   ### Habilidades nas seguintes tecnologias:
