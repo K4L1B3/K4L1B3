@@ -36,7 +36,7 @@
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho.
 
-🌱 Eu atualmente estou aprendendo novas tecnologias como AngularJS, React-Native e pretendo ir para python focando em IA após aprender sobre essas duas áreas.
+🌱 Eu atualmente estou aprendendo novas tecnologias como Spring, AngularJS, React-Native e pretendo ir para python focando em IA após aprender sobre essas duas áreas.
 
 👯 Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
 
