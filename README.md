@@ -46,7 +46,7 @@
 
 📫 Pode falar comigo atráves do meu email pessoal: luizhlimagomes28@gmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
-😄 Pronouns: Meu nome é Luiz, mas o pessoal costuma de chamar de KaliBE, então o apelido meio que pegou. kakakakaka
+😄 Pronouns: Meu nome é Luiz, mas o pessoal costuma me chamar de KaliBE, então o apelido meio que pegou. kakakakaka
 
 ⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
 
