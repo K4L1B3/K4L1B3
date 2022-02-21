@@ -133,7 +133,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   
 </div>
  
-   ![Snake animation](https://github.com/ThatianeDeboleto/ThatianeDeboleto/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/K4L1B3/K4L1B3/blob/output/github-contribution-grid-snake.svg)
 
   
 
