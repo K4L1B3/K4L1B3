@@ -1,3 +1,6 @@
+<img align="right" alt="Ane-pic" height="200px" width="200px" style="border-radius:50%;" src="https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif">
+
+
 
 <h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eae Dev!</h1>
 <h3 align="center">"hard work beats talent when talent doesn't work hard"</h3>
@@ -95,10 +98,14 @@
 </a>
 </div>
 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+     
+ 
+     
+  <a href="https://github.com/K4L1B3"><img alt="K4L1B3 Graph" src="https://activity-graph.herokuapp.com/graph?username=K4L1B3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+     
+ 
+     
 
  ## :speech_balloon: Vamos conversar  
 
@@ -109,7 +116,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 </div>
  
 
- 
+
   
 
 
