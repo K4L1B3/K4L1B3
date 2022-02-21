@@ -1,5 +1,16 @@
 # Eae Dev! 👋
 
+
+  ## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/K4L1B3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+  
+  
+
   
 ## 📙 Sobre mim
 
@@ -34,20 +45,16 @@
      
   </div>
 
-  ## 📈 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/K4L1B3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+## 💼 Projetos que resolvem problemas reais
+  
+  <div align="center">
+ <a href="https://github.com/K4L1B3/kaflux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=kaflux&theme=react&hide_border=true" />
+</a>
+  </div>
 
-## 💼 Projetos
-  
-  ### Kaflux
-  Software para gestão de estoque e fluxo de caixa para sua pequena ou média empresa.
-  
-  <a href="https://github.com/K4L1B3/kaflux">Saiba mais</a>
+
 
 ## 🔥 Meus repos favoritos
 
@@ -55,9 +62,8 @@
  <a href="https://github.com/K4L1B3/remeberflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=remeberflix&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/K4L1B3/How-to-Become-a-Great-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=
-How-to-Become-a-Great-Developer &theme=react&hide_border=true" />
+<a href="https://github.com/K4L1B3/helicopterGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=helicopterGame&theme=react&hide_border=true" />
 </a>
 </div>
 
