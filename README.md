@@ -1,6 +1,22 @@
-<img align="right" alt="Ane-pic" height="200px" width="200px" style="border-radius:50%;" src="https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif">
+<img align="right" alt="Ane-pic" height="300px" width="100%" src="https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586">
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 <h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eae Dev!</h1>
 <h3 align="center">"hard work beats talent when talent doesn't work hard"</h3>
@@ -112,6 +128,9 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
 <div align="center">
 <a href="https://twitter.com/K4L1B3" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/K4L1B3"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/luiz.belispetre/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="mailto:luizhlimagomes28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/luiz-henrique-3903a618a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+    ![Snake animation](https://github.com/ThatianeDeboleto/ThatianeDeboleto/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
  
 
