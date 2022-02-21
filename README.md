@@ -1,20 +1,13 @@
-# Eae Dev! 👋
+
+<h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eae Dev!</h1>
+<h3 align="center">"hard work beats talent when talent doesn't work hard"</h3>
+
+  <br/>
+  <br/>
 
 
-  ## 📈 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/K4L1B3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
   
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  
-## 📙 Sobre mim
+## 📙 Sobre mim  <img align="right" alt="Ane-pic" height="200px" width="200px" style="border-radius:50%;" src="https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif">
 
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho.
@@ -33,22 +26,47 @@
 
 ⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
  
+  
+  <br/>
+  <br/>
+ 
+  ## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/K4L1B3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+  
+  <br/>
+  <br/>
+  <br/>
+ 
+<p align="center">
+    <a href="https://github.com/K4L1B3">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luiz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K4L1B3&theme=react&hide_border=true"/>
+    </a>
+</p>
 
   <br/>
   
   ### 🥇 Habilidades nas seguintes tecnologias:
 
-   <div style="display: inline_block" align="center">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <div style="display: inline_block">
+     <img align="center" height="35em"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+     <img align="center" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
      
-  </div>
+    
+     
+
+  
   
 
   <br/>
