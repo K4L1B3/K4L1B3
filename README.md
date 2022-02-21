@@ -1,37 +1,7 @@
 # Eae Dev! 👋
 
-## Habilidades
-
-<div>
-  <a href="https://github.com/K4L1B3">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=16&theme=jolly"/>
-</div>
   
-  ### Habilidades nas seguintes tecnologias:
-
-   <div style="display: inline_block">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-     
-  </div>
-  
-
-## Projetos
-  
-  ### Kaflux
-  Software para gestão de estoque e fluxo de caixa para sua pequena ou média empresa.
-  
-  <a href="https://github.com/K4L1B3/kaflux">Saiba mais</a>
-
-  
-## Sobre mim
+## 📙 Sobre mim
 
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho.
@@ -49,6 +19,48 @@
 😄 Pronouns: Meu nome é Luiz, mas o pessoal costuma me chamar de KaliBE, então o apelido meio que pegou. kakakakaka
 
 ⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
+
+  ### Habilidades nas seguintes tecnologias:
+
+   <div style="display: inline_block">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+     <img height="50em"  width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+     
+  </div>
+
+  ## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/K4L1B3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+## 💼 Projetos
+  
+  ### Kaflux
+  Software para gestão de estoque e fluxo de caixa para sua pequena ou média empresa.
+  
+  <a href="https://github.com/K4L1B3/kaflux">Saiba mais</a>
+
+## 🔥 Meus repos favoritos
+
+<div align="center">
+ <a href="https://github.com/K4L1B3/remeberflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=remeberflix&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/K4L1B3/How-to-Become-a-Great-Developer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=
+How-to-Become-a-Great-Developer &theme=react&hide_border=true" />
+</a>
+</div>
+
 
 
 ### Redes sociais
