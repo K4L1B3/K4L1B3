@@ -13,10 +13,11 @@
   <br/>
 
 
-https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif
+
+
 
   
-## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/45051690/170294502-c0a60beb-5e86-4252-9f21-26ecb42e911a.jpg">
 
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho. 
