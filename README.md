@@ -1,21 +1,9 @@
-<img align="right" alt="Ane-pic" height="300px" width="100%" src="https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586">
+<img src="https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586" width="100%">
 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 
 <h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eae Dev!</h1>
@@ -25,13 +13,15 @@
   <br/>
 
 
+https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif
+
   
-## 📙 Sobre mim  <img align="right" alt="Ane-pic" height="200px" width="200px" style="border-radius:50%;" src="https://c.tenor.com/De68k_VFfZkAAAAC/gif.gif">
+## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
 
-🔭 Eu atualmente estou procurando novas oportunidades de trabalho.
+🔭 Eu atualmente estou procurando novas oportunidades de trabalho. 
 
-🌱 Eu atualmente estou aprendendo novas tecnologias como Spring, AngularJS, React-Native e pretendo ir para python focando em IA após aprender sobre essas duas áreas.
+🌱 Eu atualmente estou aprendendo novas tecnologias como Spring, ReactJS.
 
 👯 Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
 
@@ -71,7 +61,6 @@
 
    <div style="display: inline_block">
      <img align="center" height="35em"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
      <img align="center" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
