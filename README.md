@@ -6,8 +6,10 @@
 <br/>
 
 
-<h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, Eae Dev!</h1>
+<h1 align="center">Opa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, Eae Dev!
 <h3 align="center">"hard work beats talent when talent doesn't work hard"</h3>
+
+
 
   <br/>
   <br/>
