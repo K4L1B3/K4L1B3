@@ -84,7 +84,12 @@
  <a href="https://github.com/K4L1B3/AppVendasPedidos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=AppVendasPedidos&theme=react&hide_border=true" />
 </a>
+<a href="https://github.com/K4L1B3/AppVendasPedidos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=reactTS-crud-toDoList&theme=react&hide_border=true" />
+</a>
   </div>
+  
+  
 
  <br/>
  <br/>
@@ -110,6 +115,17 @@
   </a>
  <a href="https://github.com/K4L1B3/cssAnimations">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=cssAnimations&theme=react&hide_border=true" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/K4L1B3/parking-control-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&skilled-elearning-landing-page-project03&theme=react&hide_border=true" />
+  </a>
+ <a href="https://github.com/K4L1B3/cssAnimations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=equalize-landing-page&theme=react&hide_border=true" />
 </a>
 </div>
 
