@@ -98,7 +98,7 @@
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/K4L1B3/remeberflix">
+ <a href="https://github.com/K4L1B3/rememberflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=remeberflix&theme=react&hide_border=true" />
 </a>
   
