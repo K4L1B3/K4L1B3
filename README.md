@@ -86,7 +86,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=AppVendasPedidos&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/K4L1B3/next-graph-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=reactTS-next-graph-project&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=next-graph-project&theme=react&hide_border=true" />
 </a>
   </div>
   
