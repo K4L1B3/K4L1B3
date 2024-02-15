@@ -122,10 +122,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/K4L1B3/parking-control-api">
+  <a href="https://github.com/K4L1B3/skilled-elearning-landing-page-project03">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=skilled-elearning-landing-page-project03&theme=react&hide_border=true" />
   </a>
- <a href="https://github.com/K4L1B3/cssAnimations">
+ <a href="https://github.com/K4L1B3/equalize-landing-page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=equalize-landing-page&theme=react&hide_border=true" />
 </a>
 </div>
