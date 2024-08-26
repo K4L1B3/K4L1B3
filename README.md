@@ -28,13 +28,9 @@
 
 👯 Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
 
-🤔 Procuro ajuda para realizar alguns dos meus projetos maiores, como o Kaflux (Software financeiro para negócios locais).
-
 💬 Converso sobre qualquer coisa, entretanto oque me chama atenção mesmo é falar sobre empreendedorismo, ficção ciêntifica, Técnologia, biologia e o universo em geral.
 
 📫 Pode falar comigo atráves do meu email pessoal: luizhlimagomes28@gmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
-
-😄 Pronouns: Meu nome é Luiz, mas o pessoal costuma me chamar de KaliBE, então o apelido meio que pegou. kakakakaka
 
 ⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
  
