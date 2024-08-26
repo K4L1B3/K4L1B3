@@ -24,8 +24,6 @@
 
 🔭 Eu atualmente estou procurando novas oportunidades de trabalho. 
 
-🌱 Eu atualmente estou aprendendo novas tecnologias como Spring, ReactJS.
-
 👯 Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
 
 💬 Converso sobre qualquer coisa, entretanto oque me chama atenção mesmo é falar sobre empreendedorismo, ficção ciêntifica, Técnologia, biologia e o universo em geral.
